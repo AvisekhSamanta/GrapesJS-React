@@ -1,0 +1,6 @@
+.employeeform{
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+  }
+  
